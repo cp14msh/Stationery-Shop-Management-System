@@ -57,6 +57,73 @@ This project uses only the Python standard library and requires no external pack
 * **Graphical User Interface (GUI):** Rebuild the application with a GUI framework such as `Tkinter` or `PyQt`.
 
 ---
+## 🔮 Future Roadmap
+### Short-term Enhancements
+* Data persistence with SQLite database
+
+* Advanced input validation and error handling
+
+* Barcode scanning integration
+
+* Customer management system
+
+### Medium-term Features
+* Multi-shop support with centralized reporting
+
+* Supplier management and purchase orders
+
+* Seasonal trend analysis
+
+* Mobile companion application
+
+### Long-term Vision
+* Cloud synchronization and web dashboard
+
+* AI-powered inventory predictions
+
+* Integration with accounting software
+
+* Multi-language internationalization
+
+---
+## 🤝 Contributing
+We welcome contributions from developers interested in supporting small businesses!
+
+### Development Setup
+Fork the repository
+
+Create a feature branch:     ```bash
+    git checkout -b feature/amazing-feature
+    ```
+
+Commit changes: ```bash git commit -m 'Add amazing feature' ```
+
+Push to branch: ```bash git push origin feature/amazing-feature ```
+
+Open a Pull Request
+
+### Areas for Contribution
+* UI/UX improvements
+
+* Additional report types
+
+* Performance optimization
+
+* Localization for different regions
+
+* Integration with hardware devices
+
+---
+## 🐛 Issue Reporting
+### Found a bug or have a feature request?
+
+1. Check existing issues on GitHub
+
+2. Create a new issue with detailed description
+
+3, Include steps to reproduce for bugs
+
+4. Suggest solutions or alternatives
 
 ## 📜 License
 
